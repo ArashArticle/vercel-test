@@ -162,7 +162,7 @@ If you started out with the CLI you can update the generated `.env.local` with a
 The example store `.env.local` looks like:
 
 ```
-MAKESWIFT_SITE_API_KEY=XXX-XXX-XXX
+MAKESWIFT_SITE_API_KEY=79eb7b69-4649-408d-9aaf-9e69bd193482XXX-XXX-XXX
 
 BIGCOMMERCE_ACCESS_TOKEN=ipupahkny78rhnuodygnrpvtl8tv0qz
 BIGCOMMERCE_STORE_HASH="5yjdhtv55p"
